@@ -1,2 +1,2 @@
-# Text-Analytics-IOB-Tags-
+# Text-Analytics-NER-Tags-
 IOB tags prediction
