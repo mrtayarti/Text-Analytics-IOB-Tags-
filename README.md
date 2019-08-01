@@ -1,2 +1,2 @@
 # Text-Analytics-NER-Tags-
-IOB tags prediction
+NER tags prediction train on Wikipedia dataset validate over wikigold standard
